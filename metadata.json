@@ -1,0 +1,7 @@
+{
+  "name": "HD Camera",
+  "description": "Professional HD Camera app to capture ultra-high-definition photos with manual controls, HDR clarity, live filters, and built-in HD photo gallery.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+

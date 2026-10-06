@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">HD Camera</string>
+    <string name="camera_permission_required">Camera Permission Required</string>
+    <string name="camera_permission_desc">HD Camera needs access to your device camera to capture ultra-high-definition photos.</string>
+    <string name="grant_permission">Grant Permission</string>
+    <string name="capture_photo">Capture Photo</string>
+    <string name="switch_camera">Switch Camera</string>
+    <string name="toggle_flash">Toggle Flash</string>
+    <string name="gallery_title">HD Gallery</string>
+    <string name="no_photos_yet">No HD photos captured yet</string>
+    <string name="tap_to_capture_first">Tap the shutter button to take your first high-definition shot!</string>
+    <string name="photo_saved">HD Photo saved to gallery</string>
+    <string name="photo_enhanced">Photo enhanced with HD clarity</string>
+    <string name="delete_photo_confirm">Delete this photo?</string>
+</resources>
